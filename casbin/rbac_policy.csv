@@ -1,0 +1,4 @@
+p, admin_urls, /*, GET
+p, ADMIN_X, /role_needed, GET
+
+g, ADMIN_X, admin_urls

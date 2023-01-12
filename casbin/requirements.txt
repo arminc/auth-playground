@@ -1,0 +1,4 @@
+flask==2.2.2
+black==22.10.0
+pyjwt==2.6.0
+flask-authz==2.5.0
